@@ -1,5 +1,5 @@
 {
-  "latest": 0.5,
+  "latest": 0.6,
   "updateurl": "https://raw.githubusercontent.com/Kuharz/MrProper/master/Mr.%20Proper.lua",
-  "updlist": "• Фикс нажатия кнопок."
+  "updlist": "• Исправление ошибки с уборкой мешка после 5/5 собранного мусора."
 }
